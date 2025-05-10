@@ -1,0 +1,33 @@
+Página HTML Parati Quadrada Rebaixada
+Data do Projeto: 10/05/2025
+
+  Aula Git Ciclo Cairu 
+
+📌 Pontos Principais Aprendidos
+1. Versionamento com Git/GitHub
+Criação do repositório: Aprendemos a iniciar um novo projeto no GitHub
+
+Branching strategy: Implementamos branches separadas para cada funcionalidade
+
+Commits semânticos: Utilizamos mensagens claras para cada atualização
+
+2. Estrutura HTML
+Semântica HTML5: Uso correto de tags como <header>, <footer>, <section>
+
+Organização de código: Estrutura limpa e bem indentada
+
+SEO básico: Meta tags e títulos hierárquicos
+
+3. Estilização CSS
+Design responsivo: Media queries para diferentes tamanhos de tela
+
+Flexbox: Para layouts modernos e flexíveis
+
+Estilização consistente: Variáveis CSS e padrões de nomeação
+
+4. Boas Práticas
+Separação de preocupações: HTML para estrutura, CSS para apresentação
+
+Comentários no código: Documentação interna do projeto
+
+Performance: Imagens otimizadas e CSS eficiente
